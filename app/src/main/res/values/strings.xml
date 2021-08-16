@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QQBrowserX5</string>
+    <string name="title_activity_practice_web_view">百度一下，你就知道</string>
+    <string name="github_qq_browser_kernel">网页由 www.baidu.com 提供\n已启用QQ浏览器X5内核</string>
+</resources>
